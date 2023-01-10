@@ -42,5 +42,7 @@
 <br />
 <br />
 
-[![Talha Zuberi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkz96&show_icons=true&theme=radical)](https://github.com/tkz96/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkz96&show_icons=true&theme=radical&layout=compact)](https://github.com/tkz96/github-readme-stats)
+[![Talha Zuberi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkz96&show_icons=true&theme=radical)](https://github.com/tkz96/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkz96&show_icons=true&theme=radical&layout=compact)](https://github.com/tkz96/github-readme-stats)
 
