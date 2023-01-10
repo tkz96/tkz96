@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://tkz96.github.io/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://tkz96.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/TKZ96#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/TKZ96#gh-dark-mode-only)
