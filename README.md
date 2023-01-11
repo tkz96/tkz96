@@ -4,7 +4,7 @@
 
 ## I'm a Full Stack Developer!
 
-- 🥅 2023 Goals: Learn Cloud Computing
+- 🥅 2023 Goals: Learn Cloud Computing.
 - ⚡ Fun fact: I love to build computers and talk about tech! Also, I love DOOM.
 
 ### Connect with me:
